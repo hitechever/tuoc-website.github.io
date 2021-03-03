@@ -1,0 +1,61 @@
+
+:root {
+--primary-color: #777;
+--font-family: 'Lato';
+--letter-spacing: 1px;
+--h1-color: #c1c7c7;
+--h1-font-family: 'Roboto';
+--h1-font-weight: 500;
+--h1-line-height: 1.5;
+--h2-color: #c1c7c7;
+--h2-font-family: 'Lato';
+--h2-font-weight: 600;
+--h3-color: #777;
+--h3-font-weight: 600;
+--h4-color: #777;
+--h4-font-family: 'Lato';
+--h4-font-weight: 600;
+--h5-font-weight: 400;
+--h5-letter-spacing: 2px;
+--h5-line-height: 1;
+--h6-color: #777;
+--h6-font-family: 'Arial';
+--h6-font-weight: 300;
+--h6-letter-spacing: 0px;
+--h6-line-height: 1.5;
+--form-border-radius: 0px 0px 0px 0px;
+--form-height: 60px;
+--form-padding: 0px 10px 0px 20px;
+--textarea-height: 170px;
+--gutter-width: 60px;
+--gutter-compensation: -30px;
+--gutter-vertical: 8.99888vh;
+--module-gutter-vertical: 2.36686vh;
+--mobile-row-distance: 2.24972vh;
+--screen-xlg-min: 1600px;
+--container-xlg: 1570px;
+--max-grid-ratio: 1.25;
+--mobile-element-distance: 10px;
+--mobile-column-distance: 10px;
+--language-switcher-border-color: #d4d4c9;
+--language-switcher-background-color: #fff;
+--region-switcher-border-color: #d4d4c9;
+--region-switcher-background-color: #fff;
+--region-switcher-popup-background-color: #fff;
+}
+.btn1 {
+--button-border-radius: 0 0 0 0;
+--button-background-color-disabled: #fff;
+--button-font-size: 17px;
+--button-border-width: 1px 1px 1px 1px;
+--button-color: #000;
+--button-font-weight: 700;
+--button-background-color: #a18b40;
+--button-border-color: #a18b40;
+--button-font-family: "Lato";
+}
+.btn1:hover {
+--button-color: #a18b40;
+--button-background-color: #000;
+--button-border-color: #000;
+}
